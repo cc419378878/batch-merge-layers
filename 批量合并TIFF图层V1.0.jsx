@@ -66,7 +66,7 @@ function go(){
     }
 //关于
 win.buttons.s.onClick = function () {
-alert("photoshop cs6 测试可用\r\n作 者：陈 策", "关于");
+alert("photoshop cs6 测试可用\r\n作 者：化猫之宿", "关于");
 }
 
 win.buttons.Btnok.onClick = function () {
